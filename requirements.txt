@@ -1,0 +1,11 @@
+# Dependencies for Project 1 (bank marketing) and Project 2 (concrete strength)
+# Install with: pip install -r requirements.txt
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost
+notebook
